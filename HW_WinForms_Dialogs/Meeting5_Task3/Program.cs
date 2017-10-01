@@ -16,7 +16,7 @@ namespace Meeting5_Task3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new EditingForm());
+            Application.Run(new MainForm());
         }
     }
 }
