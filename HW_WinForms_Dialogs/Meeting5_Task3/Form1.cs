@@ -27,7 +27,6 @@ namespace Meeting5_Task3
         {
             EditingForm editingForm = new EditingForm();
             editingForm.Show();
-            
         }
     }
 }
