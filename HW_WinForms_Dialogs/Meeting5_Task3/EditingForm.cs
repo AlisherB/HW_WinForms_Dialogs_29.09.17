@@ -18,7 +18,6 @@ namespace Meeting5_Task3
                 return;
             string filename = saveFileDialog.FileName;
             File.WriteAllText(filename, textBoxEdit.Text);
-
             this.Close();
         }
 

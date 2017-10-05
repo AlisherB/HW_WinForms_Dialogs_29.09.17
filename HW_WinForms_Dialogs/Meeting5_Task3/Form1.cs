@@ -9,7 +9,7 @@ namespace Meeting5_Task3
         public MainForm()
         {
             InitializeComponent();
-            openFileDialog.Filter = "Текстовые файлы(*.txt)|*.txt|Все файлы(*.*)|*.*";
+            openFileDialog.Filter = "Текстовые файлы (*.txt)|*.txt|Все файлы(*.*)|*.*";
         }
 
         private void ButtonLoad_Click(object sender, EventArgs e)
@@ -28,5 +28,6 @@ namespace Meeting5_Task3
             EditingForm editingForm = new EditingForm();
             editingForm.Show();
         }
+        
     }
 }

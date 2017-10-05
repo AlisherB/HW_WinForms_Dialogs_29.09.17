@@ -44,6 +44,7 @@
             this.textBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBox.Size = new System.Drawing.Size(520, 325);
             this.textBox.TabIndex = 0;
+            //this.textBox.TextChanged += new System.EventHandler(this.TextBox_TextChanged);
             // 
             // buttonLoad
             // 

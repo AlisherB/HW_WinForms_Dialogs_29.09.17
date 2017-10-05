@@ -9,3 +9,14 @@ C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForm
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.exe
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.pdb
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.MainForm.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\bin\Debug\Meeting5_Task3.exe.config
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\bin\Debug\Meeting5_Task3.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\bin\Debug\Meeting5_Task3.pdb
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.EditingForm.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.MainForm.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.Properties.Resources.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.csproj.GenerateResource.Cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.csproj.CoreCompileInputs.cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_29.09.17\HW_WinForms_Dialogs\Meeting5_Task3\obj\Debug\Meeting5_Task3.pdb
