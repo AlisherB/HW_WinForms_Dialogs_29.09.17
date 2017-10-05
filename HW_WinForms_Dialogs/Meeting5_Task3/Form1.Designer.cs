@@ -37,13 +37,12 @@
             // textBox
             // 
             this.textBox.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox.Location = new System.Drawing.Point(13, 13);
+            this.textBox.Location = new System.Drawing.Point(1, 1);
             this.textBox.Multiline = true;
             this.textBox.Name = "textBox";
             this.textBox.ReadOnly = true;
             this.textBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox.Size = new System.Drawing.Size(497, 312);
+            this.textBox.Size = new System.Drawing.Size(520, 325);
             this.textBox.TabIndex = 0;
             // 
             // buttonLoad
