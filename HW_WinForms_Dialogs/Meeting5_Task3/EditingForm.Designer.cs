@@ -96,10 +96,9 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox textBoxEdit;
         private System.Windows.Forms.Button buttonSave;
         private System.Windows.Forms.Button buttonCancel;
         private System.Windows.Forms.SaveFileDialog saveFileDialog;
+        public System.Windows.Forms.TextBox textBoxEdit;
     }
 }

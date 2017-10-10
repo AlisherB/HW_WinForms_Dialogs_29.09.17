@@ -6,8 +6,10 @@ namespace Meeting5_Task3
 {
     public partial class EditingForm : Form
     {
-        public EditingForm()
+        MainForm mainForm;
+        public EditingForm(MainForm mainForm)
         {
+            this.mainForm = mainForm;
             InitializeComponent();
             saveFileDialog.Filter = "Текстовые файлы(*.txt)|*.txt|Все файлы(*.*)|*.*";
         }
@@ -18,12 +20,13 @@ namespace Meeting5_Task3
                 return;
             string filename = saveFileDialog.FileName;
             File.WriteAllText(filename, textBoxEdit.Text);
-            this.Close();
+            mainForm.textBox.Text = textBoxEdit.Text;
+            this.Hide();
         }
 
         private void ButtonCancel_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide();
         }
         
     }

@@ -44,7 +44,6 @@
             this.textBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBox.Size = new System.Drawing.Size(520, 325);
             this.textBox.TabIndex = 0;
-            //this.textBox.TextChanged += new System.EventHandler(this.TextBox_TextChanged);
             // 
             // buttonLoad
             // 
@@ -97,11 +96,10 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox textBox;
         private System.Windows.Forms.Button buttonLoad;
         private System.Windows.Forms.Button buttonEdit;
         private System.Windows.Forms.OpenFileDialog openFileDialog;
+        public System.Windows.Forms.TextBox textBox;
     }
 }
 

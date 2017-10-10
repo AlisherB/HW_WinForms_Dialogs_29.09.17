@@ -6,8 +6,10 @@ namespace Meeting5_Task3
 {
     public partial class MainForm : Form
     {
+        EditingForm editingForm;
         public MainForm()
         {
+            editingForm = new EditingForm(this);
             InitializeComponent();
             openFileDialog.Filter = "Текстовые файлы (*.txt)|*.txt|Все файлы(*.*)|*.*";
         }
@@ -25,7 +27,7 @@ namespace Meeting5_Task3
 
         private void ButtonEdit_Click(object sender, EventArgs e)
         {
-            EditingForm editingForm = new EditingForm();
+            editingForm.textBoxEdit.Text = textBox.Text;
             editingForm.Show();
         }
         
